@@ -16,6 +16,7 @@ D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessU
 D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.AssemblyInfoInputs.cache
 D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.AssemblyInfo.cs
 D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.sourcelink.json
 D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.Up2Date
 D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.dll
 D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\refint\ChessUI.dll

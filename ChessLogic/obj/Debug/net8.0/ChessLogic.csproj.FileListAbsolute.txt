@@ -5,6 +5,7 @@ D:\Programação\Projetos C,C++,C#\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.
 D:\Programação\Projetos C,C++,C#\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
 D:\Programação\Projetos C,C++,C#\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
 D:\Programação\Projetos C,C++,C#\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C,C++,C#\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.sourcelink.json
 D:\Programação\Projetos C,C++,C#\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
 D:\Programação\Projetos C,C++,C#\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
 D:\Programação\Projetos C,C++,C#\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
