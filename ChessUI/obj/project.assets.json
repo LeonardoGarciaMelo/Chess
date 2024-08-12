@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\btclo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessUI\\ChessUI.csproj",
+      "projectUniqueName": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessUI\\ChessUI.csproj",
       "projectName": "ChessUI",
-      "projectPath": "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessUI\\ChessUI.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessUI\\obj\\",
+      "projectPath": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessUI\\ChessUI.csproj",
+      "packagesPath": "C:\\Users\\btclo\\.nuget\\packages\\",
+      "outputPath": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\btclo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -54,8 +54,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj": {
-              "projectPath": "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj"
+            "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj": {
+              "projectPath": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj"
             }
           }
         }

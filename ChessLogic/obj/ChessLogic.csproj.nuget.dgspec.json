@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj": {}
+    "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj": {}
   },
   "projects": {
-    "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj": {
+    "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "projectUniqueName": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj",
         "projectName": "ChessLogic",
-        "projectPath": "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\obj\\",
+        "projectPath": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "packagesPath": "C:\\Users\\btclo\\.nuget\\packages\\",
+        "outputPath": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\btclo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
