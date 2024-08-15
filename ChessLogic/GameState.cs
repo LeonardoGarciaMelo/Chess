@@ -11,6 +11,7 @@ namespace ChessLogic
         public Board Board { get; }
         public Player CurrentPlayer { get; private set; }
         public Result result { get; private set; } = null;
+        public Result Result { get; private set; }
 
         public GameState(Player player, Board board)
         {
@@ -34,6 +35,7 @@ namespace ChessLogic
         {
             move.Execute(Board);
             CurrentPlayer = CurrentPlayer.Opponent();
+            CheckForGameOver();
         }
         
         public IEnumerable<Move> AllLegalMovesFor(Player player)
@@ -43,6 +45,29 @@ namespace ChessLogic
                 Piece piece = Board[pos];
                 return piece.GetMoves(pos, Board);
             });
+
+            return moveCandidates.Where(move => move.IsLegal(Board));
+        }
+
+        private void CheckForGameOver()
+        {
+            if (!AllLegalMovesFor(CurrentPlayer).Any())
+            {
+                if (Board.IsInCheck(CurrentPlayer))
+                {
+                    Result = Result.Win(CurrentPlayer.Opponent());
+                }
+
+                else
+                {
+                    Result = Result.Draw(EndReason.Stalemate);
+                }
+            }
+        }
+
+        public bool IsGameOver()
+        {
+            return Result != null;
         }
     }
 }
