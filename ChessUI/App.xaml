@@ -30,11 +30,11 @@
             <Setter Property="BorderBrush" Value="{StaticResource StrokeColor}"/>
             <Setter Property="Background" Value="{StaticResource ButtonColor}"/>
             <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
-            <Setter.Resources>
+            <Style.Resources>
                 <Style TargetType="Border">
                     <Setter Property="CornerRadius" Value="5"/>
-                </Style> 
-            </Setter.Resources>
+                </Style>
+            </Style.Resources>
         </Style>
     </Application.Resources>
 </Application>

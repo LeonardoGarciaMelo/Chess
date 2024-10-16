@@ -1,28 +1,3 @@
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.AssemblyReference.cache
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\MainWindow.g.cs
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\App.g.cs
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI_MarkupCompile.cache
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI_MarkupCompile.lref
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.exe
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.deps.json
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.runtimeconfig.json
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.dll
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.pdb
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessLogic.dll
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessLogic.pdb
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\MainWindow.baml
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.g.resources
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.AssemblyInfoInputs.cache
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.AssemblyInfo.cs
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.CoreCompileInputs.cache
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.sourcelink.json
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.Up2Date
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.dll
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\refint\ChessUI.dll
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.pdb
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.genruntimeconfig.cache
-D:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ref\ChessUI.dll
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.exe
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.deps.json
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.runtimeconfig.json
@@ -31,10 +6,13 @@ C:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessU
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessLogic.dll
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\bin\Debug\net8.0-windows\ChessLogic.pdb
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.AssemblyReference.cache
+C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.g.cs
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\App.g.cs
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI_MarkupCompile.cache
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI_MarkupCompile.lref
+C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\App.baml
+C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.baml
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.g.resources
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.GeneratedMSBuildEditorConfig.editorconfig
@@ -48,8 +26,3 @@ C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\refint
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.pdb
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.genruntimeconfig.cache
 C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\ref\ChessUI.dll
-C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.AssemblyReference.cache
-C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.g.cs
-C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI_MarkupCompile.cache
-C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI_MarkupCompile.lref
