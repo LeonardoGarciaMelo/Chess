@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\",
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\Chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|c:\\programa\u00E7\u00E3o\\projetos c,c\u002B\u002B,c#\\chess\\chessui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|c:\\programa\u00E7\u00E3o\\projetos c,c\u002B\u002B,c#\\chess\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|c:\\programa\u00E7\u00E3o\\projetos c,c\u002B\u002B,c#\\chess\\chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,51 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessUI\\App.xaml",
-              "RelativeDocumentMoniker": "ChessUI\\App.xaml",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessUI\\App.xaml*",
-              "RelativeToolTip": "ChessUI\\App.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T17:30:23.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessUI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessUI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAmwDUAAAAhAAAAAAAAAA==",
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\GameState.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\GameState.cs",
+              "RelativeToolTip": "ChessLogic\\GameState.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwEQAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:28:09.965Z",
+              "WhenOpened": "2024-10-22T23:53:47.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessUI\\MainWindow.xaml",
-              "RelativeToolTip": "ChessUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T17:28:00.415Z",
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Board.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Board.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Board.cs",
+              "RelativeToolTip": "ChessLogic\\Board.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAUwJIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:41:25.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counting.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Counting.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Counting.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Counting.cs",
+              "RelativeToolTip": "ChessLogic\\Counting.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA0wBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:31:18.138Z",
               "EditorCaption": ""
             }
           ]

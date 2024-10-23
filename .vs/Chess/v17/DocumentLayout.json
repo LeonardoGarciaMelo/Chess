@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\Chess\\",
+  "WorkspaceRootPath": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\programa\u00E7\u00E3o\\projetos c,c\u002B\u002B,c#\\chess\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\programa\u00E7\u00E3o\\projetos c,c\u002B\u002B,c#\\chess\\chesslogic\\moves\\enpassant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\enpassant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\GameState.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessLogic\\GameState.cs",
               "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\GameState.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessLogic\\GameState.cs",
               "RelativeToolTip": "ChessLogic\\GameState.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAwEQAAABFAAAA",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T23:53:47.753Z",
+              "WhenOpened": "2024-10-23T17:19:11.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Board.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Board.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Board.cs",
-              "RelativeToolTip": "ChessLogic\\Board.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAUwJIAAABTAAAA",
+              "Title": "EnPassant.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessLogic\\Moves\\EnPassant.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Moves\\EnPassant.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessLogic\\Moves\\EnPassant.cs",
+              "RelativeToolTip": "ChessLogic\\Moves\\EnPassant.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T22:41:25.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Counting.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Counting.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Counting.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Counting.cs",
-              "RelativeToolTip": "ChessLogic\\Counting.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA0wBQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T22:31:18.138Z",
+              "WhenOpened": "2024-10-23T17:18:19.223Z",
               "EditorCaption": ""
             }
           ]
