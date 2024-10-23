@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\Chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|c:\\users\\labsfiap\\desktop\\chess\\chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|c:\\users\\labsfiap\\desktop\\chess\\chessui\\pausemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\pausemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|c:\\users\\labsfiap\\desktop\\chess\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{33009821-58F3-45CB-9F97-E615710AD441}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\users\\labsfiap\\desktop\\chess\\chesslogic\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessUI\\MainWindow.xaml",
-              "RelativeToolTip": "ChessUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T23:43:38.747Z",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\GameState.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\GameState.cs",
+              "RelativeToolTip": "ChessLogic\\GameState.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwEQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:53:47.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PauseMenu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessUI\\PauseMenu.xaml.cs",
-              "RelativeDocumentMoniker": "ChessUI\\PauseMenu.xaml.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessUI\\PauseMenu.xaml.cs",
-              "RelativeToolTip": "ChessUI\\PauseMenu.xaml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCMAAAAzAAAA",
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Board.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Board.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Board.cs",
+              "RelativeToolTip": "ChessLogic\\Board.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAUwJIAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T23:13:22.867Z",
+              "WhenOpened": "2024-10-22T22:41:25.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PauseMenu.xaml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessUI\\PauseMenu.xaml",
-              "RelativeDocumentMoniker": "ChessUI\\PauseMenu.xaml",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessUI\\PauseMenu.xaml",
-              "RelativeToolTip": "ChessUI\\PauseMenu.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T22:56:24.443Z",
+              "DocumentIndex": 2,
+              "Title": "Counting.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Counting.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Counting.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\Counting.cs",
+              "RelativeToolTip": "ChessLogic\\Counting.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA0wBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:31:18.138Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
