@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\ChessLogic.csproj": {}
+    "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\ChessLogic.csproj": {
+    "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "projectUniqueName": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj",
         "projectName": "ChessLogic",
-        "projectPath": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\ChessLogic.csproj",
-        "packagesPath": "C:\\Softwares\\Nuget",
-        "outputPath": "C:\\Users\\labsfiap\\Desktop\\Chess\\ChessLogic\\obj\\",
+        "projectPath": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "packagesPath": "C:\\Users\\btclo\\.nuget\\packages\\",
+        "outputPath": "C:\\Programação\\Projetos C,C++,C#\\Chess\\ChessLogic\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "c:\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\btclo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

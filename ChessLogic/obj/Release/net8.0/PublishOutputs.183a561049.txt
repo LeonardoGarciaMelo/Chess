@@ -1,0 +1,3 @@
+C:\Programação\Projetos C,C++,C#\Chess\ChessLogic\bin\Release\net8.0\publish\ChessLogic.dll
+C:\Programação\Projetos C,C++,C#\Chess\ChessLogic\bin\Release\net8.0\publish\ChessLogic.deps.json
+C:\Programação\Projetos C,C++,C#\Chess\ChessLogic\bin\Release\net8.0\publish\ChessLogic.pdb

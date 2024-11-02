@@ -56,3 +56,7 @@ C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\refint\ChessUI.
 C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.pdb
 C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.genruntimeconfig.cache
 C:\Users\labsfiap\Desktop\Chess\ChessUI\obj\Debug\net8.0-windows\ref\ChessUI.dll
+C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.g.cs
+C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.g.cs
+C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.baml
+C:\Programação\Projetos C,C++,C#\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.baml

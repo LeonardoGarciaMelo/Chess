@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\programa\u00E7\u00E3o\\projetos c,c\u002B\u002B,c#\\chess\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|c:\\programa\u00E7\u00E3o\\projetos c,c\u002B\u002B,c#\\chess\\chesslogic\\moves\\enpassant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0130D477-E4F3-48D7-8AEF-5594CF7792FB}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\enpassant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +28,9 @@
               "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
               "ToolTip": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessLogic\\GameState.cs",
               "RelativeToolTip": "ChessLogic\\GameState.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAA1wF4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T17:19:11.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnPassant.cs",
-              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessLogic\\Moves\\EnPassant.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\EnPassant.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Projetos C,C\u002B\u002B,C#\\Chess\\ChessLogic\\Moves\\EnPassant.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\EnPassant.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T17:18:19.223Z",
               "EditorCaption": ""
             }
           ]
